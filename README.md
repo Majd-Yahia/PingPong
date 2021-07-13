@@ -7,7 +7,7 @@
 ## Screen Shots: 
 
 
-![](https://github.com/Majd-Yahia/PingPong/blob/main/images/Main_Menu.PNG) 
+![](https://github.com/Majd-Yahia/PingPong/blob/main/images/Main_Menu.png) 
 ##### Features for Main Menu
 - can choose to play against a player-2 or a bot.
 - can change amount of scores needed to win the game.
