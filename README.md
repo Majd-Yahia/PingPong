@@ -13,7 +13,7 @@
 - can change amount of scores needed to win the game.
 - can quit the game.
 
-
+-------------------------------------------------------------------------------
 ![](https://github.com/Majd-Yahia/PingPong/blob/main/images/field.PNG)
 ### Features for In-game
 - If ball bounce resulted in zero velocity in x direction, a wall spawns with an angle to deflect the ball.
@@ -21,7 +21,7 @@
 - New information on ball has been added.
 - Random walls spawns in field.
 
-
+-------------------------------------------------------------------------------
 ![](https://github.com/Majd-Yahia/PingPong/blob/main/images/gameover.PNG)
 ### Features for Gameover Menu
 - can choose to play against a player-2 or a bot.
