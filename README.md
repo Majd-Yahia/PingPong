@@ -8,20 +8,22 @@
 
 
 ![](https://github.com/Majd-Yahia/PingPong/blob/main/images/Main_Menu.png) 
-##### Features for Main Menu
+### Features for Main Menu
 - can choose to play against a player-2 or a bot.
 - can change amount of scores needed to win the game.
 - can quit the game.
 
+
 ![](https://github.com/Majd-Yahia/PingPong/blob/main/images/field.PNG)
-##### Features for In game
+### Features for In-game
 - If ball bounce resulted in zero velocity in x direction, a wall spawns with an angle to deflect the ball.
 - If ball manages to leave the ring at high speed, the ball is auto sent to the mid field.
 - New information on ball has been added.
 - Random walls spawns in field.
 
+
 ![](https://github.com/Majd-Yahia/PingPong/blob/main/images/gameover.PNG)
-##### Features for Gameover Menu
+### Features for Gameover Menu
 - can choose to play against a player-2 or a bot.
 - can change amount of scores needed to win the game.
 - can quit the game.
